@@ -17,4 +17,4 @@ func TestSomeString(t *testing.T) {
   }
 }
 ```
-👆🏾 This is an example of a 💩 test. We are looking to make sure that the constant matches the test. The reality of this test asks that we verify that a engineer can copy and paste a string.  
+👆🏾 This is an example of a 💩 test. We are looking to make sure that the constant matches the test. The reality of this test asks that we verify that a engineer can copy and paste a string. If we are verifying that the `const` not being set blows something up, we should test **that thing**. 
