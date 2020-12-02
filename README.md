@@ -45,3 +45,6 @@ In this test we are doing a few different things here:
 
 **Why is this a different type of test that what we wrote previously?**
 1. We didn't care **HOW** it iterated, we care that the end goal was reached of `n` iterations resulting in the **expected outcome**.
+
+## Testing is a skill, skills evolve
+> I get paid for code that works, not for tests, so my philosophy is to test as little as possible to reach a given level of confidence (I suspect this level of confidence is high compared to industry standards, but that could just be hubris). If I don't typically make a kind of mistake(like setting the wrong variables in a constructor), I don't test for it. - Kent Beck
