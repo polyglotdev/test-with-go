@@ -48,3 +48,5 @@ In this test we are doing a few different things here:
 
 ## Testing is a skill, skills evolve
 > I get paid for code that works, not for tests, so my philosophy is to test as little as possible to reach a given level of confidence (I suspect this level of confidence is high compared to industry standards, but that could just be hubris). If I don't typically make a kind of mistake(like setting the wrong variables in a constructor), I don't test for it. - Kent Beck
+
+**You are allowed to change your mind**! Keep an open mind, and realize that this is a journey, and not a destination. You will tests that are brittle, you will write tests that are 💩, but keep on chugging and improving. This is the way.
